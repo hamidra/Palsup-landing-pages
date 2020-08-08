@@ -1,0 +1,53 @@
+body {
+  /*background-image: linear-gradient(#ffd14d, #ffd50d);*/
+  background-image: radial-gradient(circle, #fd267d, #ff7864);
+}
+.logo-caption {
+  font-family: 'avenir-black';
+  font-size: x-large;
+  font-weight: lighter;
+  font-style: normal;
+  color: #fff176;
+}
+.app-description {
+  font-family: 'avenir-black';
+  font-size: x-large;
+  font-weight: lighter;
+  color: #ffffff;
+}
+
+footer {
+  font-weight: 500;
+  text-decoration: none;
+}
+
+#footer-top-blocks {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid white;
+}
+
+footer ul {
+  padding-inline-start: 0;
+}
+footer li {
+  list-style-type: none;
+}
+footer a {
+  font-size: 0.8rem;
+  color: #ffffff;
+}
+.badge-link img {
+  height: 50px;
+}
+#copyright {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: 0.9rem;
+  text-align: center;
+  color: #ffffff;
+}
+
+input.email {
+  max-width: 200px;
+}
